@@ -92,7 +92,7 @@ export default function StudentDashboard() {
       icon: team_icon,
     },
   ];
-  //t2
+
   const offerJobs = [
     {
       title: "Staff Engineer",
